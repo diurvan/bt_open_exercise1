@@ -1,0 +1,20 @@
+{
+  "name": "bt_open_exercise1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 del Bootcamp OpenBootcamp",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "nodemoon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diurvan/bt_open_exercise1.git"
+  },
+  "author": "diurvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diurvan/bt_open_exercise1/issues"
+  },
+  "homepage": "https://github.com/diurvan/bt_open_exercise1#readme"
+}
