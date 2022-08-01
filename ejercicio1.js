@@ -14,9 +14,9 @@ function suma(number1, number2, number3) {
 export default function ejercicio1_main() {
  /*1ra parte*/
  let mysuma = suma(5, 10, 15)
- console.log(mysuma)
+ console.log('Suma %s', mysuma)
  /*2da parte*/
  let mycoche = new coche(6)
  mycoche.add_nropuertas()
- console.log(mycoche.nropuertas)
+ console.log('Coche puertas %s', mycoche.nropuertas)
 }
